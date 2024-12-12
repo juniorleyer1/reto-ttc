@@ -7,73 +7,88 @@ document.addEventListener('DOMContentLoaded', () => {
             id: 1,
             nombre: 'ACEITE MAZDA ALEGRO 20W-50G',
             precio: 120000,
-            imagen: 'assets/img/feature_prod_01.jpg',
+            imagen: 'img/20W-50G X3.jpg',
             categoria: 'aceites'
         },
         {
             id: 2,
             nombre: 'ACEITE HUYNDAI ACCENT 20W-50G',
             precio: 130000,
-            imagen: 'assets/img/sombrero4.jpg',
+            imagen: 'img/20W-50G X3.jpg',
             categoria: 'aceites'
         },
         {
             id: 3,
             nombre: 'ACEITE RENAULT LOGAN 20W-50G',
             precio: 110000,
-            imagen: 'assets/img/feature_prod_02.jpg',
+            imagen: 'img/20W-50G X3.jpg',
             categoria: 'aceites'
         },
         {
             id: 4,
             nombre: 'EXPLORADORAS EXP01 MAZDA ALLEGRO',
             precio: 170000,
-            imagen: 'assets/img/shop_04.jpg',
+            imagen: 'img/RL333.jpg',
             categoria: 'exploradoras'
         },
         {
             id: 5,
             nombre: 'EXPLORADORAS EXP02 HUYNDAI ACCENT',
             precio: 180000,
-            imagen: 'assets/img/shop_03.jpg',
+            imagen: 'img/RL334.jpg',
             categoria: 'exploradoras'
         },
         {
             id: 6,
-            nombre: 'EXPLORADORAS EXP01 RENAULT LOGAN',
+            nombre: 'EXPLORADORAS EXP03 RENAULT LOGAN',
             precio: 150000,
-            imagen: 'assets/img/category_img_02.jpg',
+            imagen: 'img/RL335.jpg',
             categoria: 'exploradoras'
         },
         // cambiar
         {
             id: 7,
-            nombre: 'EXPLORADORAS EXP01 RENAULT LOGAN',
-            precio: 150000,
-            imagen: 'assets/img/category_img_02.jpg',
-            categoria: 'exploradoras'
+            nombre: 'CAPOT CAP1 MAZDA',
+            precio: 800000,
+            imagen: 'img/CAP1.jpg',
+            categoria: 'capot'
         },
         {
             id: 8,
-            nombre: 'EXPLORADORAS EXP01 RENAULT LOGAN',
-            precio: 150000,
-            imagen: 'assets/img/category_img_02.jpg',
-            categoria: 'exploradoras'
+            nombre: 'CAPOT CAP2 HUYNDAI',
+            precio: 750000,
+            imagen: 'img/CAP2.jpg',
+            categoria: 'capot'
         },
         {
             id: 9,
-            nombre: 'EXPLORADORAS EXP01 RENAULT LOGAN',
-            precio: 150000,
-            imagen: 'assets/img/category_img_02.jpg',
-            categoria: 'exploradoras'
+            nombre: 'CAPOT CAP3 RENAULT',
+            precio: 900000,
+            imagen: 'img/CAP3.jpg',
+            categoria: 'capot'
         },
+        // 
         {
             id: 10,
-            nombre: 'EXPLORADORAS EXP01 RENAULT LOGAN',
-            precio: 150000,
-            imagen: 'assets/img/category_img_02.jpg',
-            categoria: 'exploradoras'
-        }
+            nombre: 'CAJA DIRECCIONES MAZDA',
+            precio: 1200000,
+            imagen: 'img/56510-22012.jpg',
+            categoria: 'cajadirecciones'
+        },
+        {
+            id: 11,
+            nombre: 'CAJA DIRECCIONES HYUNDAI',
+            precio: 1300000,
+            imagen: 'img/56510-22024.jpg',
+            categoria: 'cajadirecciones'
+        },
+        {
+            id: 12,
+            nombre: 'CAJA DIRECCIONES RENAULT',
+            precio: 1250000,
+            imagen: 'img/56510-22235.jpg',
+            categoria: 'cajadirecciones'
+        },
     ];
 
     let carrito = [];
