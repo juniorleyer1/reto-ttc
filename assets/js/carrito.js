@@ -5,45 +5,74 @@ document.addEventListener('DOMContentLoaded', () => {
     const baseDeDatos = [
         {
             id: 1,
-            nombre: 'Sombrero vueltiao con la bandera de Colombia, 23 vueltas',
-            precio: 250000,
+            nombre: 'ACEITE MAZDA ALEGRO 20W-50G',
+            precio: 120000,
             imagen: 'assets/img/feature_prod_01.jpg',
-            categoria: 'sombreros'
+            categoria: 'aceites'
         },
         {
             id: 2,
-            nombre: 'Sombrero vueltiao-machiembriao',
-            precio: 150000,
+            nombre: 'ACEITE HUYNDAI ACCENT 20W-50G',
+            precio: 130000,
             imagen: 'assets/img/sombrero4.jpg',
-            categoria: 'sombreros'
+            categoria: 'aceites'
         },
         {
             id: 3,
-            nombre: 'Sombrero vueltiao colombiano 15 vueltas tricolor',
-            precio: 250000,
+            nombre: 'ACEITE RENAULT LOGAN 20W-50G',
+            precio: 110000,
             imagen: 'assets/img/feature_prod_02.jpg',
-            categoria: 'sombreros'
+            categoria: 'aceites'
         },
         {
             id: 4,
-            nombre: 'Mochila wayuu azul 6',
-            precio: 120000,
+            nombre: 'EXPLORADORAS EXP01 MAZDA ALLEGRO',
+            precio: 170000,
             imagen: 'assets/img/shop_04.jpg',
-            categoria: 'mochilas'
+            categoria: 'exploradoras'
         },
         {
             id: 5,
-            nombre: 'Bolso en fique',
-            precio: 120000,
+            nombre: 'EXPLORADORAS EXP02 HUYNDAI ACCENT',
+            precio: 180000,
             imagen: 'assets/img/shop_03.jpg',
-            categoria: 'bolsos'
+            categoria: 'exploradoras'
         },
         {
             id: 6,
-            nombre: 'Hamaca',
-            precio: 120000,
+            nombre: 'EXPLORADORAS EXP01 RENAULT LOGAN',
+            precio: 150000,
             imagen: 'assets/img/category_img_02.jpg',
-            categoria: 'hamacas'
+            categoria: 'exploradoras'
+        },
+        // cambiar
+        {
+            id: 7,
+            nombre: 'EXPLORADORAS EXP01 RENAULT LOGAN',
+            precio: 150000,
+            imagen: 'assets/img/category_img_02.jpg',
+            categoria: 'exploradoras'
+        },
+        {
+            id: 8,
+            nombre: 'EXPLORADORAS EXP01 RENAULT LOGAN',
+            precio: 150000,
+            imagen: 'assets/img/category_img_02.jpg',
+            categoria: 'exploradoras'
+        },
+        {
+            id: 9,
+            nombre: 'EXPLORADORAS EXP01 RENAULT LOGAN',
+            precio: 150000,
+            imagen: 'assets/img/category_img_02.jpg',
+            categoria: 'exploradoras'
+        },
+        {
+            id: 10,
+            nombre: 'EXPLORADORAS EXP01 RENAULT LOGAN',
+            precio: 150000,
+            imagen: 'assets/img/category_img_02.jpg',
+            categoria: 'exploradoras'
         }
     ];
 
