@@ -89,6 +89,27 @@ document.addEventListener('DOMContentLoaded', () => {
             imagen: 'img/56510-22235.jpg',
             categoria: 'cajadirecciones'
         },
+        {
+            id: 13,
+            nombre: 'VENTILADOR MAZDA',
+            precio: 50000,
+            imagen: 'img/RX011.jpg',
+            categoria: 'cajadirecciones'
+        },
+        {
+            id: 14,
+            nombre: 'VENTILADOR HUYNDAI',
+            precio: 60000,
+            imagen: 'img/RX012.jpg',
+            categoria: 'cajadirecciones'
+        },
+        {
+            id: 15,
+            nombre: 'VENTILADOR RENAULT',
+            precio: 60000,
+            imagen: 'img/RX013.jpg',
+            categoria: 'cajadirecciones'
+        },
     ];
 
     let carrito = [];
